@@ -1,6 +1,6 @@
 # cursor-switcher
 
-Made for Desktop XR and MSFS2024. Clicking back button on the mouse _when Flightsimulator2024.exe_ is running will toggle the cursor between primary and secondary monitor breaking the MSFS2024 cursor lock.
+Made for Desktop XR and MSFS2024. Clicking back button on the mouse _when Flightsimulator2024.exe_ is running will toggle the cursor between primary and secondary monitor breaking the MSFS2024 cursor lock. MSFS on monitor 0.
 
 It runs in the background, just add it as a startup app, running as admin:
 
